@@ -1,0 +1,19 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\TestFileManagerAPI\TestFileManagerAPI.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="DevExtreme.AspNet.Mvc">
+      <HintPath>..\..\..\..\..\Program Files\DevExpress 23.2\DevExtreme\System\DevExtreme\Bin\AspNet\DevExtreme.AspNet.Mvc.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>
