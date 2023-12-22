@@ -5,7 +5,7 @@
 function renderFileManager(container) {
 
     const provider = new DevExpress.fileManagement.RemoteFileSystemProvider({
-        endpointUrl: 'http://localhost:46357/api/file-manager-file-system-images',
+        endpointUrl: 'https://localhost:46357/api/file-manager-file-system-images',
         //endpointUrl: 'https://js.devexpress.com/Demos/Mvc/api/file-manager-file-system-images',
     });
 

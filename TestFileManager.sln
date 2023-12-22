@@ -5,7 +5,7 @@ VisualStudioVersion = 17.8.34330.188
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TestFileManager", "TestFileManager\TestFileManager.csproj", "{10182654-0653-4E8F-AE6D-48AA645F9556}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestFileManagerAPI", "TestFileManagerAPI\TestFileManagerAPI.csproj", "{22D17242-5A7A-4973-BA61-02227CBDB8C7}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FIleManagerAPI", "FIleManagerAPI\FIleManagerAPI.csproj", "{842A1105-CC46-4786-964D-847A8E61C982}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,10 +17,10 @@ Global
 		{10182654-0653-4E8F-AE6D-48AA645F9556}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{10182654-0653-4E8F-AE6D-48AA645F9556}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{10182654-0653-4E8F-AE6D-48AA645F9556}.Release|Any CPU.Build.0 = Release|Any CPU
-		{22D17242-5A7A-4973-BA61-02227CBDB8C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{22D17242-5A7A-4973-BA61-02227CBDB8C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{22D17242-5A7A-4973-BA61-02227CBDB8C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{22D17242-5A7A-4973-BA61-02227CBDB8C7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{842A1105-CC46-4786-964D-847A8E61C982}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{842A1105-CC46-4786-964D-847A8E61C982}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{842A1105-CC46-4786-964D-847A8E61C982}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{842A1105-CC46-4786-964D-847A8E61C982}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
